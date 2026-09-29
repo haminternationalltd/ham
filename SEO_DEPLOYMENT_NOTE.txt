@@ -1,7 +1,0 @@
-HAM International Ltd. SEO deployment notes
-
-1. Upload the entire website folder, preserving the assets/ directory.
-2. Confirm the real public domain before adding a canonical URL or sitemap.xml.
-3. In Google Search Console, verify the domain and submit sitemap.xml after it is generated with the real domain.
-4. Keep the existing visible business information consistent across the website and Google Business Profile.
-5. Do not use fake job vacancies, fake reviews, or keyword stuffing.
