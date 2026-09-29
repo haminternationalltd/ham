@@ -1,0 +1,18 @@
+HAM International Ltd. SEO deployment
+
+Live URL:
+https://haminternationalltd.github.io/ham/
+
+Files:
+- index.html
+- robots.txt
+- sitemap.xml
+- assets/
+
+Google Search Console:
+1. Add the URL-prefix property: https://haminternationalltd.github.io/ham/
+2. Verify ownership using the available verification method.
+3. Submit: https://haminternationalltd.github.io/ham/sitemap.xml
+4. Use URL Inspection for the homepage and click Request indexing.
+
+Important: indexing/ranking is not guaranteed and may take time.
