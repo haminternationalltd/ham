@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# After publishing, replace YOUR-GITHUB-USERNAME with your real GitHub username:
-# Sitemap: https://YOUR-GITHUB-USERNAME.github.io/ham-international-ltd/sitemap.xml
