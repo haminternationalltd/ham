@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haminternationalltd.github.io/sitemap.xml
